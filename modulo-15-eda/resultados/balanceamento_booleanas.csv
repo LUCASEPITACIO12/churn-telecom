@@ -1,0 +1,7 @@
+variavel,classe_majoritaria,proporcao_majoritaria,classe_minoritaria,proporcao_minoritaria,situacao
+Genero,Masculino,0.511,Feminino,0.489,Balanceada
+Idoso,Não,0.839,Sim,0.161,Desbalanceada
+Casado,Não,0.507,Sim,0.493,Balanceada
+Dependentes,Não,0.685,Sim,0.315,Desbalanceada
+Servico_Telefone,Sim,0.966,Não,0.034,Desbalanceada
+Churn,Não,0.74,Sim,0.26,Desbalanceada
