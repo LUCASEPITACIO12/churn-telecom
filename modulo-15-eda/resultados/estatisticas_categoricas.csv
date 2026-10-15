@@ -1,0 +1,12 @@
+,count,unique,top,freq
+Genero,2495,2,Masculino,1276
+Casado,2495,2,Não,1266
+Dependentes,2495,2,Não,1710
+Servico_Telefone,2495,2,Sim,2409
+Servico_Internet,2495,3,Fibra óptica,1124
+Servico_Seguranca,2495,3,Não,1257
+Suporte_Tecnico,2495,3,Não,1254
+Streaming_TV,2495,3,Não,1003
+Tipo_Contrato,2495,3,Mensal,1373
+Forma_Pagamento,2495,4,Cheque eletrônico,832
+Churn,2495,2,Não,1846
